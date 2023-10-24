@@ -19,3 +19,7 @@
     padding-left: 10px;
     vertical-align: text-bottom;
 }
+.content {
+    padding: 16px;
+    background-color: #fff;
+}
