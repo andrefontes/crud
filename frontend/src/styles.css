@@ -8,3 +8,14 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .v-middle {
     vertical-align: middle;
 }
+
+.mat-mdc-card { box-shadow: none !important; }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 15px 15px 15px 0px;
+}

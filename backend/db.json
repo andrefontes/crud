@@ -24,6 +24,21 @@
       "name": "Microondas 2",
       "price": "3000",
       "id": 5
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 6
+    },
+    {
+      "name": "nome",
+      "price": "1212",
+      "id": 7
+    },
+    {
+      "name": "veio do formulario",
+      "price": "99.69",
+      "id": 8
     }
   ]
 }
